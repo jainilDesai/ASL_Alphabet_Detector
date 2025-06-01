@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+tensorflow
+numpy
+scikit-learn
+textblob
+fuzzywuzzy
+python-Levenshtein

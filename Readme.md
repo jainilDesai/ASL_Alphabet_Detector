@@ -19,8 +19,8 @@ This project is a real-time ASL letter detector using a webcam and hand tracking
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/asl-detection
-cd asl-detection
+git clone https://github.com/jainilDesai/ASL_Alphabet_Detector.git
+cd ASL_Alphabet_Detector
 ```
 
 ### 2. Create Python Virtual Environment (Recommended)
@@ -36,19 +36,6 @@ source .venv/bin/activate   # macOS/Linux
 
 ```bash
 pip install -r requirements.txt
-```
-
-#### 📦 `requirements.txt`
-
-```txt
-opencv-python
-mediapipe
-tensorflow
-numpy
-scikit-learn
-textblob
-fuzzywuzzy
-python-Levenshtein
 ```
 
 ---
